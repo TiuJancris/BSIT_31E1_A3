@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\HTTPServer.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\HTTPServer.csproj",
       "projectName": "HTTPServer",
-      "projectPath": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\HTTPServer.csproj",
+      "projectPath": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\HTTPServer.csproj",
       "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

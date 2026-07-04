@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HttpClientStarter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38da9d56a515212bc8968c2ed0e3185e0adb0e79")]
 [assembly: System.Reflection.AssemblyProductAttribute("HttpClientStarter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HttpClientStarter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

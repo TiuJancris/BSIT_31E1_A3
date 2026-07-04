@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
       "projectName": "HttpClientStarter",
-      "projectPath": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
+      "projectPath": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
       "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HttpClientStarter\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HttpClientStarter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

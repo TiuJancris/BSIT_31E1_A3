@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\",
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|c:\\users\\student\\downloads\\httpclientstarter\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|c:\\users\\student\\documents\\yokai\\bsit_31e1_a3\\httpclientstarter\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635634A4-9D79-B9F3-5C1E-240AA44437F3}|HttpClientStarter\\HttpClientStarter.csproj|c:\\users\\student\\downloads\\httpclientstarter\\httpclientstarter\\httpclientstarter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{635634A4-9D79-B9F3-5C1E-240AA44437F3}|HttpClientStarter\\HttpClientStarter.csproj|c:\\users\\student\\documents\\yokai\\bsit_31e1_a3\\httpclientstarter\\httpclientstarter\\httpclientstarter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{635634A4-9D79-B9F3-5C1E-240AA44437F3}|HttpClientStarter\\HttpClientStarter.csproj|solutionrelative:httpclientstarter\\httpclientstarter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635634A4-9D79-B9F3-5C1E-240AA44437F3}|HttpClientStarter\\HttpClientStarter.csproj|c:\\users\\student\\downloads\\httpclientstarter\\httpclientstarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{635634A4-9D79-B9F3-5C1E-240AA44437F3}|HttpClientStarter\\HttpClientStarter.csproj|c:\\users\\student\\documents\\yokai\\bsit_31e1_a3\\httpclientstarter\\httpclientstarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{635634A4-9D79-B9F3-5C1E-240AA44437F3}|HttpClientStarter\\HttpClientStarter.csproj|solutionrelative:httpclientstarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|c:\\users\\student\\downloads\\httpclientstarter\\httpserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|c:\\users\\student\\documents\\yokai\\bsit_31e1_a3\\httpclientstarter\\httpserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|solutionrelative:httpserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|c:\\users\\student\\downloads\\httpclientstarter\\httpserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|c:\\users\\student\\documents\\yokai\\bsit_31e1_a3\\httpclientstarter\\httpserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6084B14A-C38A-486A-BD24-05357520713B}|HTTPServer\\HTTPServer.csproj|solutionrelative:httpserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,36 +40,34 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HttpClientStarter",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
               "RelativeDocumentMoniker": "HttpClientStarter\\HttpClientStarter.csproj",
-              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HttpClientStarter\\HttpClientStarter.csproj",
               "RelativeToolTip": "HttpClientStarter\\HttpClientStarter.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-04T00:57:15.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T00:57:15.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HttpClientStarter\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HttpClientStarter\\Program.cs",
               "RelativeDocumentMoniker": "HttpClientStarter\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HttpClientStarter\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HttpClientStarter\\Program.cs",
               "RelativeToolTip": "HttpClientStarter\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T00:49:05.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T00:49:05.314Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\Program.cs",
               "RelativeDocumentMoniker": "HTTPServer\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\Program.cs",
               "RelativeToolTip": "HTTPServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-04T00:48:43.027Z",
               "EditorCaption": ""
@@ -78,27 +76,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "HTTPServer\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\WeatherForecast.cs",
               "RelativeToolTip": "HTTPServer\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T00:04:43.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T00:04:43.346Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "HTTPServer\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\HttpClientStarter\\HTTPServer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_31E1_A3\\HttpClientStarter\\HTTPServer\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "HTTPServer\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T00:01:55.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T00:01:55.036Z"
             }
           ]
         }
